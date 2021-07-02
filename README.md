@@ -7,6 +7,7 @@ I sometimes contribute to open-source and release most of my work to the public,
 ### Skills
 - PHP7
 - NodeJS
+- Golang
 - C#
 - Java
 - Python
