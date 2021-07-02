@@ -25,7 +25,7 @@ Website: https://privateger.me
 
 Discord: PrivateGER#4089
 
-IRC: privateger@libera.chat
+IRC: privateger@irc.libera.chat
 
 ### Support
 Monero (XMR): 82XBfH1oJdwU5nU5JsbXbrYZC9JnUMu8Abedz3LwkG67P7D5JE7zHQGZ2kBJdZg6pTFeSbFCAaGyQd2SkBCpmLPDRjFMZo8
