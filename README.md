@@ -11,7 +11,6 @@ I sometimes contribute to open-source and release most of my work to the public,
 - C#
 - Java
 - Python
-- Ruby
 - Linux administration
 
 ### PGP
