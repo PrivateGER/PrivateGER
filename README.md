@@ -34,6 +34,6 @@ Bitcoin (BTC): bc1qx206290tgdthk3e7vwv5h6n38kl9j3qzcjjk5v
 
 
 
-[![PerhapsSomeones Stats](https://github-readme-stats.vercel.app/api?username=PerhapsSomeone)](https://github.com/anuraghazra/github-readme-stats)
+[![PerhapsSomeones Stats](https://github-readme-stats.vercel.app/api?username=PrivateGER)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perhapssomeone)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrivateGER)](https://github.com/anuraghazra/github-readme-stats)
