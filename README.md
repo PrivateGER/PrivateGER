@@ -16,9 +16,7 @@ I sometimes contribute to open-source and release most of my work to the public,
 ### PGP
 PGP Fingerprint: 0xCAE625C962F94C67
 
-Keyserver: gozer.rediris.es
-
-Alternatively: https://privateger.me/pgp.txt
+https://privateger.me/pgp.txt
 
 ### Socials
 Website: https://privateger.me
