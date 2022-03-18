@@ -32,6 +32,4 @@ Bitcoin (BTC): bc1qx206290tgdthk3e7vwv5h6n38kl9j3qzcjjk5v
 
 
 
-[![PerhapsSomeones Stats](https://github-readme-stats.vercel.app/api?username=PrivateGER)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://wakatime.com/share/@eba00807-4c6b-484a-a80c-65f04e9b8ef3/25ea8f93-acec-45c9-b3cd-c147f24b892b.svg)
+[![PrivateGER's Stats](https://github-readme-stats.vercel.app/api?username=PrivateGER)](https://github.com/anuraghazra/github-readme-stats)
