@@ -8,15 +8,12 @@ I sometimes contribute to open-source and release most of my work to the public,
 - PHP8
 - NodeJS
 - Golang
-- C#
 - Java
-- Python
+- Rust
 - Linux administration
 
 ### PGP
-PGP Fingerprint: 0xCAE625C962F94C67
-
-https://privateger.me/pgp.txt
+https://privateger.me/pgp.txt (0xCAE625C962F94C67)
 
 ### Socials
 Website: https://privateger.me
@@ -28,8 +25,4 @@ IRC: privateger@irc.libera.chat
 ### Support
 Monero (XMR): 82XBfH1oJdwU5nU5JsbXbrYZC9JnUMu8Abedz3LwkG67P7D5JE7zHQGZ2kBJdZg6pTFeSbFCAaGyQd2SkBCpmLPDRjFMZo8
 
-Bitcoin (BTC): bc1qx206290tgdthk3e7vwv5h6n38kl9j3qzcjjk5v
-
-
-
-[![PrivateGER's Stats](https://github-readme-stats.vercel.app/api?username=PrivateGER)](https://github.com/anuraghazra/github-readme-stats)
+[![PrivateGER's Stats](https://github-readme-stats.vercel.app/api?username=PrivateGER&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
