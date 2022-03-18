@@ -2,7 +2,7 @@
 
 I'm PrivateGER, a self-taught developer from Germany.
 
-I sometimes contribute to open-source and release most of my work to the public, although my current largest project is closed-source.
+I sometimes contribute to open-source and release most of my work to the public.
 
 ### Skills
 - PHP8
