@@ -1,28 +1,24 @@
-### Hello!
+![A banner saying Latte macchiato](https://github.com/PrivateGER/PrivateGER/assets/29523614/63873c94-1529-454f-a2cf-7596477c5d74)
+Hey there!
 
-I'm PrivateGER, a self-taught developer from Germany.
-
+I'm Latte macchiato, a software developer from Germany.
 I sometimes contribute to open-source and release most of my work to the public.
+<img src="https://github.com/PrivateGER/PrivateGER/assets/29523614/efb87d2e-5f2e-4048-b632-1ba6b201692e" height=450 align="right"></img>
 
-### Skills
+### Main Skills
 - Rust
 - NodeJS
 - PHP8
 - Golang
 - Java
 - Linux administration
+- Networking
+- General frontend development
 
-### PGP
-https://privateger.me/pgp.txt (0xCAE625C962F94C67)
+### GPG Key
+Latest key available at https://github.com/privateger.gpg
 
 ### Socials
-Website: https://privateger.me
+Website: https://lattemacchiato.dev
 
-Discord: PrivateGER#4089
-
-IRC: privateger@irc.libera.chat
-
-### Support
-Monero (XMR): 82XBfH1oJdwU5nU5JsbXbrYZC9JnUMu8Abedz3LwkG67P7D5JE7zHQGZ2kBJdZg6pTFeSbFCAaGyQd2SkBCpmLPDRjFMZo8
-
-[![PrivateGER's Stats](https://github-readme-stats.vercel.app/api?username=PrivateGER&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Discord: latte_macchiato
