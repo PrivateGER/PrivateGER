@@ -1,4 +1,5 @@
-![A banner saying Latte macchiato](https://github.com/PrivateGER/PrivateGER/assets/29523614/63873c94-1529-454f-a2cf-7596477c5d74)
+![A banner saying Latte macchiato](https://github.com/PrivateGER/PrivateGER/assets/29523614/5f764ea2-0b50-42b7-bf9d-7c6a82938339)
+
 Hey there!
 
 I'm Latte macchiato, a software developer from Germany.
