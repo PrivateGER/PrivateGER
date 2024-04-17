@@ -12,6 +12,7 @@ I sometimes contribute to open-source and release most of my work to the public.
 - PHP8
 - Golang
 - Java
+- Python
 - Linux administration
 - Networking
 - General frontend development
