@@ -15,7 +15,6 @@ I sometimes contribute to open-source and release most of my work to the public.
 - Python
 - Linux administration
 - Networking
-- General frontend development
 
 ### GPG Key
 Latest key available at https://github.com/privateger.gpg
